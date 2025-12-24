@@ -1,0 +1,11 @@
+﻿pandas
+
+pandas_ta
+
+yfinance
+
+requests_cache
+
+matplotlib
+
+# customtkinter  <-- Không hoạt động trên Streamlit
