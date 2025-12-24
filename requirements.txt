@@ -8,4 +8,4 @@ requests_cache
 
 matplotlib
 
-# customtkinter  <-- Không hoạt động trên Streamlit
+streamlit
