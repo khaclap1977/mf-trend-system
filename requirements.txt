@@ -1,13 +1,7 @@
 ﻿streamlit
-
 pandas
-
-pandas_ta
-
+pandas-ta
 yfinance
-
-requests_cache
-
 matplotlib
-
 openpyxl
+requests-cache
